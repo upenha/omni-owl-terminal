@@ -1,0 +1,23 @@
+{
+  "name": "Omni Owl",
+  "cursorColor": "#201B2D",
+  "selectionBackground": "#41414D",
+  "background": "#13111B",
+  "foreground": "#E1E1E6",
+  "black": "#201B2D",
+  "red": "#FF79C6",
+  "green": "#67e480", 
+  "yellow": "#e7de79",
+  "blue": "#78D1E1",
+  "purple": "#988bc7",
+  "cyan": "#A1EFE4",
+  "white": "#E1E1E6",
+  "brightBlack": "#626483",
+  "brightRed": "#ed4556",
+  "brightGreen": "#00F769",
+  "brightYellow": "#e7de79",
+  "brightBlue": "#78D1E1",
+  "brightPurple": "#988bc7",
+  "brightCyan": "#A4FFFF",
+  "brightWhite": "#F7F7FB"
+}
