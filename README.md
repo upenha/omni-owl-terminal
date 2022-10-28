@@ -37,8 +37,3 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | [![Upenha](https://github.com/upenha.png?size=100)](https://github.com/upenha) |
 | ------------------------------------------------------------------------------------------------ |
 | [Upenha](https://github.com/upenha)                                                   |
-
-
-## License
-
-[MIT License](./LICENSE)
